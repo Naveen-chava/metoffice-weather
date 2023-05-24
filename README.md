@@ -28,5 +28,5 @@ This endpoint retrieves weather data based on the specified criteria. It support
   * Endpoint: /temperature/
 
 ### 3. Get Summary
-**Endpoint: /temperature/get-summary
+Endpoint: /temperature/get-summary
 Method: GET
