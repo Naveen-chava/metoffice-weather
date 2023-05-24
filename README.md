@@ -15,19 +15,17 @@ This endpoint retrieves weather data based on the specified criteria. It support
 
   a) For a specific year:
   
-  Endpoint: /temperature/?year=<year>
-  
-  Example: /temperature/?year=2022
+  * Endpoint: /temperature/?year=<year>
+  * Example: /temperature/?year=2022
 
   b) For a range of years:
   
-  Endpoint: /temperature/?start_year=<start_year>&end_year=<end_year>
-  
-  Example: /temperature/?start_year=2018&end_year=2020
+  * Endpoint: /temperature/?start_year=<start_year>&end_year=<end_year>
+  * Example: /temperature/?start_year=2018&end_year=2020
 
   c) Entire weather data in both orders (year order, rank order):
   
-  Endpoint: /temperature/
+  * Endpoint: /temperature/
 
 ### 3. Get Summary
   
